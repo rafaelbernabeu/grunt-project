@@ -1,0 +1,33 @@
+{
+  "name": "grunt-project",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "connect-livereload": "^0.6.0",
+    "grunt": "~0.4.1",
+    "grunt-connect-proxy": "^0.2.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-open": "^0.2.3",
+    "grunt-serve": "^0.1.6",
+    "serve-static": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbernabeu/angularPOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelbernabeu/angularPOC/issues"
+  },
+  "homepage": "https://github.com/rafaelbernabeu/angularPOC#readme"
+}
